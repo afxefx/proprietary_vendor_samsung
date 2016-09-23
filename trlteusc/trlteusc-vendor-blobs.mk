@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
+    endor/samsung/trlteusc/proprietary/vendor/lib/liblocationservice_glue.so:system/vendor/lib/liblocationservice_glue.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
