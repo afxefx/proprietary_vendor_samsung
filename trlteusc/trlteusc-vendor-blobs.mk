@@ -65,14 +65,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlteusc/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/samsung/trlteusc/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/trlteusc/proprietary/bin/rmnetcli:system/bin/rmnetcli \
-    #vendor/samsung/trlteusc/proprietary/lib/libcfiril.so:system/lib/libcfiril.so \
+    vendor/samsung/trlteusc/proprietary/lib/libcfiril.so:system/lib/libcfiril.so \
     vendor/samsung/trlteusc/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/trlteusc/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/trlteusc/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/samsung/trlteusc/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/trlteusc/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/trlteusc/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
-    #vendor/samsung/trlteusc/proprietary/lib/librilswitch.so:system/lib/librilswitch.so \
+    vendor/samsung/trlteusc/proprietary/lib/librilswitch.so:system/lib/librilswitch.so \
     vendor/samsung/trlteusc/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
