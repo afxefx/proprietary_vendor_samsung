@@ -36,6 +36,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
+    vendor/samsung/trlteusc/proprietary/vendor/lib/libqmi_client_helper.so:system/vendor/lib/libqmi_client_helper.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
@@ -46,12 +47,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlteusc/proprietary/lib/libagc_max.so:system/lib/libagc_max.so \
     vendor/samsung/trlteusc/proprietary/lib/libqservice.so:system/lib/libqservice.so \
     vendor/samsung/trlteusc/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
+    vendor/samsung/trlteusc/proprietary/lib/libtinyxml2.so:system/lib/libtinyxml2.so \
     vendor/samsung/trlteusc/proprietary/lib/libvcsfp.so:system/lib/libvcsfp.so \
     vendor/samsung/trlteusc/proprietary/lib/libvfmClient.so:system/lib/libvfmClient.so \
     vendor/samsung/trlteusc/proprietary/lib/libqdutils.so:system/lib/libqdutils.so \
     vendor/samsung/trlteusc/proprietary/lib/libjpegehw.so:system/lib/libjpegehw.so \
     vendor/samsung/trlteusc/proprietary/lib/libjpegdhw.so:system/lib/libjpegdhw.so \
     vendor/samsung/trlteusc/proprietary/lib/libedmnativehelper.so:system/lib/libedmnativehelper.so \
+    vendor/samsung/trlteusc/proprietary/lib/libedmnativehelperservice.so:system/lib/libedmnativehelperservice.so \
     vendor/samsung/trlteusc/proprietary/lib/libbt-iopdb.so:system/lib/libbt-iopdb.so \
     vendor/samsung/trlteusc/proprietary/lib/libbt-iopdb_mod.so:system/lib/libbt-iopdb_mod.so \
     vendor/samsung/trlteusc/proprietary/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
@@ -71,6 +74,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlteusc/proprietary/lib/libcfiril.so:system/lib/libcfiril.so \
     vendor/samsung/trlteusc/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/trlteusc/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/samsung/trlteusc/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/trlteusc/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/samsung/trlteusc/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/trlteusc/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
