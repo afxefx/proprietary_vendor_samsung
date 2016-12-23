@@ -48,7 +48,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlteusc/proprietary/lib/libqservice.so:system/lib/libqservice.so \
     vendor/samsung/trlteusc/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/samsung/trlteusc/proprietary/lib/libtinyxml2.so:system/lib/libtinyxml2.so \
-    vendor/samsung/trlteusc/proprietary/lib/libvcsfp.so:system/lib/libvcsfp.so \
     vendor/samsung/trlteusc/proprietary/lib/libqdutils.so:system/lib/libqdutils.so \
     vendor/samsung/trlteusc/proprietary/lib/libjpegehw.so:system/lib/libjpegehw.so \
     vendor/samsung/trlteusc/proprietary/lib/libjpegdhw.so:system/lib/libjpegdhw.so \
