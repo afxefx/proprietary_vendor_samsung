@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
-    vendor/samsung/trlteusc/proprietary/vendor/lib/liboemcrypto.so:system/vendor/lib/liboemcrypto.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
